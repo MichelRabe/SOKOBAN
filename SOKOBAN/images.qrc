@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Photos/sokobanIcon.png</file>
+        <file>Photos/zelda.png</file>
+        <file>Photos/cadenasFerme.png</file>
+        <file>Photos/cadenasOuvert.png</file>
+        <file>Photos/vide.jpg</file>
+        <file>Photos/caisse.jpg</file>
+        <file>Photos/caisse_ok.jpg</file>
+        <file>Photos/mur.png</file>
+        <file>Photos/objectif.jpg</file>
+        <file>Photos/mario.png</file>
+        <file>Photos/mariovict.png</file>
+        <file>Photos/mariovict.gif</file>
+        <file>Photos/foret.png</file>
+        <file>Photos/arbre.png</file>
+        <file>Photos/zeldavict.png</file>
+        <file>Photos/coupe.png</file>
+        <file>Photos/ballon.png</file>
+    </qresource>
+    <qresource prefix="/Sons">
+        <file>Sounds/BO2.mp3</file>
+    </qresource>
+    <qresource prefix="/Niveaux">
+        <file>Levels/level1.txt</file>
+        <file>Levels/level2.txt</file>
+        <file>Levels/level3.txt</file>
+        <file>Levels/level4.txt</file>
+        <file>Levels/level5.txt</file>
+        <file>Levels/level6.txt</file>
+        <file>Levels/level7.txt</file>
+        <file>Levels/level8.txt</file>
+        <file>Levels/level9.txt</file>
+        <file>Levels/level10.txt</file>
+    </qresource>
+</RCC>
